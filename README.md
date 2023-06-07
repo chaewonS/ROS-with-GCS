@@ -1,5 +1,6 @@
 # ROS-with-GCS
-KETI Second Project
+# KETI Project2
+---
 + TO DO LIST
   + GCS WEB - HW 연동
   + 서버로 활용될 PC에 ROS 환경 셋팅
