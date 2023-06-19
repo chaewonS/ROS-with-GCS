@@ -14,4 +14,6 @@
 + 로봇 알고리즘 테스트, 로봇 설계, 현실적인 시나리오에 대한 테스트 수행 가능
 + Gazebo 공식 홈페이지의 튜토리얼 링크: https://classic.gazebosim.org/tutorials?cat=guided_b&tut=guided_b1
 
-## Nuvo
+## Nuvo (Nuvo-7000 Series)
++ Nuvo-7006LP
++ Industrial-grade embedded computers to utilize Intel's 8th Gen
