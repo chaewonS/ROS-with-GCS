@@ -18,5 +18,5 @@
 + Nuvo-7006LP
 + Industrial-grade embedded computers to utilize Intel's 8th Gen
 
-+ ROS 강의 (표윤석 박사님)
-  + 링크: https://www.youtube.com/@ROBOTISOpenSourceTeam/playlists
+## ROS 강의 (표윤석 박사님)
++ 링크: https://www.youtube.com/@ROBOTISOpenSourceTeam/playlists
