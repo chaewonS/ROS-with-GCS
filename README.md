@@ -20,3 +20,5 @@
 
 ## ROS 강의 (표윤석 박사님)
 + 링크: https://www.youtube.com/@ROBOTISOpenSourceTeam/playlists
+  
+![photo_2023-08-09_17-41-51](https://github.com/chaewonS/ROS-with-GCS/assets/81732426/438886f1-1a1d-40a8-ab02-aee739161b4a)
