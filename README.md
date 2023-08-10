@@ -1,5 +1,5 @@
 # ROS-with-GCS
-### KETI Project2
+### KETI Project
 ---
 + TO DO LIST
   + GCS WEB - HW 연동
